@@ -1,3 +1,8 @@
 # requirements.txt
-snowflake-snowpark-python
-streamlit
+# snowflake-snowpark-python
+# streamlit
+
+streamlit>=1.31
+snowflake-snowpark-python[pandas]
+snowflake-connector-python
+
