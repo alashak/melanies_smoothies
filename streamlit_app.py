@@ -45,3 +45,15 @@ if ingredients_list:
         # success_str =  
         st.success("✅" + 'Your Smoothie is ordered, ' + name_on_order + "!")
         
+
+
+
+
+
+
+
+
+
+
+
+    
